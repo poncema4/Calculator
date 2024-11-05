@@ -4,7 +4,6 @@
 This is a simple version of a functioning calculator that is able to take in 2 input values and perform
 an operation on them. Only addition, subtraction, multiplication, and division. It also avoids the player from
 trying to divide by 0, or giving an invalid arithmetic operation and will return an error.
-
 ________________________________________________________________________________
 Instructions for user:
 
